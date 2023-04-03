@@ -6,3 +6,4 @@ echo "source ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions
 
 # cat ~/.zshrc | grep -n "plugins=(git)" | awk -F ':' '{ print $1 }'
 echo "plugins=(git zsh-syntax-highlighting zsh-autosuggestions)"
+source ~/.zshrc
